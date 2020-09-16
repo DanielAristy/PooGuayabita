@@ -1,0 +1,24 @@
+
+m	java:S128y"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8ÜÎŠ°Ä.
+W	java:S125h"<This block of commented-out lines of code should be removed.(–½¯8Ÿ‡ìÀ.
+n
+java:S1301Ú"KReplace this "switch" statement by "if" statements to increase readability.(§Ÿ›˜şÿÿÿÿ8Šİ³‡Å.
+>	java:S131u""Add a default case to this switch.(°€àâ8Ô—¤¯Ä.
+u
+java:S3008"XRename this field "INSTRUCCIONES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıŠ™û8Î²ŞæÀ.
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(òÂÅüÿÿÿÿ8À¹æ†Å.
+L
+java:S1481Ó".Remove this unused "verificar" local variable.(Ê«Üì8Îª¬‡Å.
+[
+java:S1117p">Rename "verificar" which hides the field declared at line 109.(Ê«Üì8å‘ƒ°Ä.
+N
+java:S1481æ"0Remove this unused "dadoJugador" local variable.(Ø€ğò8ğœà‡Å.
+D	java:S131Ú""Add a default case to this switch.(§Ÿ›˜şÿÿÿÿ8Šİ³‡Å.
+G
+java:S3010"*Remove this assignment of "INSTRUCCIONES".(•­ÙÊ8“ìİæÀ.
+R
+java:S2209"5Change this instance-reference to a static reference.(•­ÙÊ8“ìİæÀ.
+\
+java:S1117Ó">Rename "verificar" which hides the field declared at line 109.(Ê«Üì8íÓ¯Ä.
+J
+java:S1068m"-Remove this unused "verificar" private field.(«‹œ·8É¤¥®Ä.

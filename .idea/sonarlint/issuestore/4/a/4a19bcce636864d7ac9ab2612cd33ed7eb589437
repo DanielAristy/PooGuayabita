@@ -1,0 +1,11 @@
+
+F
+java:S2140D")Use "java.util.Random.nextInt()" instead.(ÈÎ™8ƒ‘Çì¸.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‡°¶¸üÿÿÿÿ8åÍ™ğ¸.
+K
+java:S1068")Remove this unused "juego" private field.(Õ¾şûÿÿÿÿ8ÚúéË.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ü»úÿÿÿÿ8´èëì¸.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÛñÎ8ş»˜ğ¸.
